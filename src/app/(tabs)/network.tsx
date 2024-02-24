@@ -6,7 +6,7 @@ import { Text, View } from '../../components/Themed';
 export default function NetworkScreen() {
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Tab Two</Text>
+      <Text style={styles.title}>NetworkScreen</Text>
     </View>
   );
 }
