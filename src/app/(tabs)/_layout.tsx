@@ -47,7 +47,7 @@ export default function TabLayout() {
         name="network"
         options={{
           title: "My Network",
-          tabBarIcon: ({ color }) => <TabBarIcon name="code" color={color} />,
+          tabBarIcon: ({ color }) => <TabBarIcon name="group" color={color} />,
         }}
       />
       <Tabs.Screen
